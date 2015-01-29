@@ -1,7 +1,4 @@
-
 $fn = 100;
-
-// Zoom out to see image!
 
 module king(col){
 	rotate(90)
